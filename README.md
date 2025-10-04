@@ -1,4 +1,4 @@
-# Teensy 4.1 Controller for dRehmFlight
+# Teensy 4.1 - Based Flight-Controller for dRehmFlight
 
 This project is a hardware controller board designed specifically for use with the [dRehmFlight open-source flight controller firmware](https://github.com/nickrehm/dRehmFlight). It is based on the Teensy 4.1 microcontroller and provides all the essential interfaces and components needed for a compact, capable flight control unit.
 
