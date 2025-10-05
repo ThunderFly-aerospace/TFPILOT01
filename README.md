@@ -2,6 +2,9 @@
 
 This project is a hardware controller board designed specifically for use with the [dRehmFlight open-source flight controller firmware](https://github.com/nickrehm/dRehmFlight). It is based on the Teensy 4.1 microcontroller and provides all the essential interfaces and components needed for a compact, capable flight control unit.
 
+![TFPILOT01 top](doc/gen/img/TFPILOT01-top.png)
+![TFPILOT01 bottom](doc/gen/img/TFPILOT01-bottom.png)
+
 ## Features
 
 ### Core Components
