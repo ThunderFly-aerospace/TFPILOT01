@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/TFPILOT01.kicad_sch</source>
-    <date>2025-10-04T15:42:48+0000</date>
-    <tool>Eeschema 9.0.1+1</tool>
+    <date>2025-11-29T01:43:49+0000</date>
+    <tool>Eeschema 9.0.6+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>Teensy 4.1 example design Kicad</title>
@@ -27,11 +27,12 @@
     <comp ref="C1">
       <value>0.22uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRX7R6BB224</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -47,11 +48,12 @@
     <comp ref="C2">
       <value>0.22uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRX7R6BB224</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -67,11 +69,12 @@
     <comp ref="C3">
       <value>2.2uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CL10B225KP8NNNC</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -87,11 +90,12 @@
     <comp ref="C4">
       <value>0.22uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRX7R6BB224</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -107,11 +111,12 @@
     <comp ref="C5">
       <value>10nf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">0603B103K160CT</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -127,11 +132,12 @@
     <comp ref="C6">
       <value>4.7uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CL10B475KQ8NQNC</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -147,11 +153,12 @@
     <comp ref="C7">
       <value>2.2uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CL10B225KP8NNNC</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -167,11 +174,12 @@
     <comp ref="C8">
       <value>0.22uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRX7R6BB224</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -187,11 +195,12 @@
     <comp ref="C9">
       <value>10uf</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">GRM21BR71A106KA73K</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -207,11 +216,12 @@
     <comp ref="C10">
       <value>0.22uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRX7R6BB224</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -227,11 +237,12 @@
     <comp ref="C11">
       <value>10uf</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">GRM21BR71A106KA73K</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -247,11 +258,12 @@
     <comp ref="C12">
       <value>4.7uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CL10B475KQ8NQNC</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -267,11 +279,12 @@
     <comp ref="C13">
       <value>0.22uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRX7R6BB224</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -287,11 +300,12 @@
     <comp ref="C14">
       <value>10uf</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">GRM21BR71A106KA73K</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -307,11 +321,12 @@
     <comp ref="C15">
       <value>4.7uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CL10B475KQ8NQNC</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -327,11 +342,12 @@
     <comp ref="C16">
       <value>10nf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">0603B103K160CT</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -347,11 +363,12 @@
     <comp ref="C17">
       <value>0.22uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRX7R6BB224</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -367,11 +384,12 @@
     <comp ref="C18">
       <value>0.22uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRX7R6BB224</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -387,11 +405,12 @@
     <comp ref="C19">
       <value>10pf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRNPO9BN100</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -407,11 +426,12 @@
     <comp ref="C20">
       <value>10pf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRNPO9BN100</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -427,11 +447,12 @@
     <comp ref="C21">
       <value>9pf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">GRM1885C1H9R0DA01D</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -447,11 +468,12 @@
     <comp ref="C22">
       <value>9pf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">GRM1885C1H9R0DA01D</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -467,11 +489,12 @@
     <comp ref="C23">
       <value>0.22uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRX7R6BB224</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -487,11 +510,12 @@
     <comp ref="C24">
       <value>4.7uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CL10B475KQ8NQNC</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -507,11 +531,12 @@
     <comp ref="C25">
       <value>0.22uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CC0603KRX7R6BB224</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -527,11 +552,12 @@
     <comp ref="C26">
       <value>4.7uf</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean (X7R or better)</field>
         <field name="MPN">CL10B475KQ8NQNC</field>
         <field name="Footprint">Capacitor_SMD:C_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
@@ -564,9 +590,10 @@
     <comp ref="D3">
       <value>LED</value>
       <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">LED_SMD:LED_0402_1005Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
@@ -580,9 +607,10 @@
     <comp ref="D4">
       <value>LED</value>
       <footprint>LED_SMD:LED_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">LED_SMD:LED_0402_1005Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
@@ -613,11 +641,12 @@
     <comp ref="F1">
       <value>Fuse</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Bel Fuse Inc</field>
         <field name="MPN">0ZCK0050FF2E</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Fuse" description="Fuse"/>
@@ -633,11 +662,12 @@
     <comp ref="FB1">
       <value>Ferrite_Bead</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Taiyo Yuden</field>
         <field name="MPN">FBMH2012HM121-T‎</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
@@ -653,11 +683,12 @@
     <comp ref="FB2">
       <value>Ferrite_Bead</value>
       <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Taiyo Yuden</field>
         <field name="MPN">FBMH2012HM121-T‎</field>
         <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Ferrite_Bead" description="Ferrite bead"/>
@@ -699,9 +730,10 @@
     <comp ref="J6">
       <value>Conn_01x03_Male</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -715,9 +747,10 @@
     <comp ref="J7">
       <value>Conn_01x03_Male</value>
       <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -731,10 +764,11 @@
     <comp ref="L1">
       <value>4.7uH</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MPN">LQM21PN4R7MGRD</field>
         <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="L" description="Inductor"/>
@@ -768,9 +802,10 @@
     <comp ref="P2">
       <value>D26</value>
       <footprint>Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -819,11 +854,12 @@
     <comp ref="R1">
       <value>5.1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean</field>
         <field name="MPN">RC0603FR-075K1L</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -839,11 +875,12 @@
     <comp ref="R2">
       <value>5.1k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Jellybean</field>
         <field name="MPN">RC0603FR-075K1L</field>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -859,9 +896,10 @@
     <comp ref="R3">
       <value>100k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -875,9 +913,10 @@
     <comp ref="R4">
       <value>100k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -891,9 +930,10 @@
     <comp ref="R5">
       <value>1M</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -907,9 +947,10 @@
     <comp ref="R10">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -923,9 +964,10 @@
     <comp ref="R11">
       <value>100k</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -939,9 +981,10 @@
     <comp ref="R14">
       <value>1k</value>
       <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -955,9 +998,10 @@
     <comp ref="R15">
       <value>2.2M</value>
       <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Resistor_SMD:R_0603_1608Metric</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
@@ -971,9 +1015,10 @@
     <comp ref="SWD1">
       <value>SWD</value>
       <footprint>Connector_PinHeader_1.27mm:PinHeader_1x07_P1.27mm_Vertical</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Connector_PinHeader_1.27mm:PinHeader_1x07_P1.27mm_Vertical</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="Conn_01x07_Female" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
@@ -987,9 +1032,10 @@
     <comp ref="TP1">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -1003,9 +1049,10 @@
     <comp ref="TP2">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -1019,9 +1066,10 @@
     <comp ref="TP3">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -1035,9 +1083,10 @@
     <comp ref="TP4">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -1051,9 +1100,10 @@
     <comp ref="TP5">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -1067,9 +1117,10 @@
     <comp ref="TP6">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -1083,9 +1134,10 @@
     <comp ref="TP7">
       <value>TestPoint</value>
       <footprint>TestPoint:TestPoint_Pad_D1.0mm</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">TestPoint:TestPoint_Pad_D1.0mm</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Connector" part="TestPoint" description="test point"/>
@@ -1171,9 +1223,10 @@
     <comp ref="Y1">
       <value>Crystal_GND23</value>
       <footprint>Crystal:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="Footprint">Crystal:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Crystal_GND24" description="Four pin crystal, GND on pins 2 and 4"/>
@@ -1187,11 +1240,12 @@
     <comp ref="Y2">
       <value>Crystal</value>
       <footprint>Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm</footprint>
+      <datasheet>~</datasheet>
       <fields>
         <field name="MFGR">Abracon</field>
         <field name="MPN">ABS06-32.768KHZ-9-1-T</field>
         <field name="Footprint">Crystal:Crystal_SMD_2012-2Pin_2.0x1.2mm</field>
-        <field name="Datasheet"/>
+        <field name="Datasheet">~</field>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
