@@ -29,12 +29,12 @@ This project is a hardware controller board designed specifically for use with t
 
 * **XT30 power connector** for powering both the autopilot and connected servos
 * **PWM outputs** using standard RC servo connectors for direct model integration
-* **Multiple high-current GPIO outputs** with transistor drivers for triggering pyrotechnic or other one-shot actuators
+* **Multiple high-current GPIO outputs** with transistor drivers for heating control, triggering pyrotechnic or other one-shot actuators
 * **USB‑C connector** for power and debug interface (compatible with PJRC Teensy bootloader)
 
 ### Expansion and Debugging
 
-* **2.54 mm pin headers** for access to all I/O pins (except D41)
+* **2.54 mm pin header** for access to I/O pins (except D41)
 * **JTAG pins** broken out (not yet tested)
 
 ## Acknowledgements
